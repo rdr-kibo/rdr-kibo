@@ -1,15 +1,15 @@
 ## Hola/Hi 👋
 
 # ES
-Hola, mi nombre es Rubén, uso "Kibo" de mote digital. Ciudadano de España. Actualmente aprendiendo phyton y otras cosas.
+Hola, mi nombre es Rubén, uso "Kibo" de mote digital. Soy Ciudadano de España. Actualmente aprendiendo phyton y otras cosas.
 
-📚 Soy técnico en Farmacia y Parafarmacia de formación profesional de grado medio. Actualmente estudiante del Grado Superior en Mediación Comunicativa. Cuando termine planeo estudiar el ciclo superior de desarrollo de apicaciones multiplataforma (DAM).
+📚 Soy técnico en Farmacia y Parafarmacia de formación profesional de grado medio. Actualmente estudiante del Grado Superior en Mediación Comunicativa. Cuando termine planeo estudiar el ciclo superior de desarrollo de aplicaciones multiplataforma (DAM).
 
 💻 Tengo bastante interés por la informática, la programación, la creación de contenido y los videojuegos, y me gustaría seguir formándome y creciendo profesionalmente en ello.
 
-Nota: La formación profesional aqui mencionada corresponde al sistema de FP de España. Estas titulaciones no son universitarias. Más información sobre éste sistema -> https://es.wikipedia.org/wiki/Formaci%C3%B3n_profesional_en_Espa%C3%B1a
+Nota: La formación profesional aquí mencionada corresponde al sistema de FP de España. Estas titulaciones no son universitarias. Más información sobre éste sistema -> https://es.wikipedia.org/wiki/Formaci%C3%B3n_profesional_en_Espa%C3%B1a
 
-📫 Usa el correo en mi linkedin para contactarme (O mandame un mensaje drectamente desde ahí).
+📫 Usa el correo en mi LinkedIn para contactarme (O mándame un mensaje directamente desde ahí).
 
 Escrito a fecha de 15 de abril de 2025
 
